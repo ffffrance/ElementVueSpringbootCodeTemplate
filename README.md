@@ -3,7 +3,6 @@
 使用Vue+VueX+ElementUI+SpringBoot的代码框架。
 [**详细文档请点击这里**](https://xwjie.github.io/ElementVueSpringbootCodeTemplate)
 
-相关文章：[程序员你为什么这么累？](https://zhuanlan.zhihu.com/p/28705206)
 
 ![](docs/main.png)
 
