@@ -1,4 +1,4 @@
-# 晓风轻SpringBoot+Vue代码模板
+# SpringBoot+Vue代码模板
 
 使用Vue+VueX+ElementUI+SpringBoot的代码框架。
 [**详细文档请点击这里**](https://xwjie.github.io/ElementVueSpringbootCodeTemplate)
